@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/send part/Scenes/main_menu.unity
+    guid: e5736a6eab7e65c47b9fbb303b82eb5e
+  - enabled: 1
+    path: Assets/send part/Scenes/solo.unity
+    guid: 2c1fab7d0e1ce3948b11211256598ef2
+  - enabled: 1
+    path: Assets/send part/Scenes/DUO.unity
+    guid: a5ff0b63e8795ca448831a3c3cbc52e3
+  - enabled: 1
+    path: Assets/send part/Scenes/multygamescene 1.unity
+    guid: d644b3ae290ab434885e87375e53eb7a
+  - enabled: 1
+    path: Assets/send part/Scenes/winning.unity
+    guid: 029898c9257ed984c9484a3f54b564b4
+  - enabled: 1
+    path: Assets/send part/Scenes/solowining.unity
+    guid: 6760f80c4c162fc44818721c3d09de46
+  m_configObjects: {}
